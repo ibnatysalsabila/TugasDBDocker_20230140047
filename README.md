@@ -11,9 +11,9 @@
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/994d5f60-c260-4e0f-9cb3-e3a2ba29c781" />
   
 4. Halaman web teman yang di pull screenshot:
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4049f68-2bfe-4b61-91e5-984348dfb58c" />
+  
+   Halaman form (tabel diisi dengan nama masing masing)
    
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4049f68-2bfe-4b61-91e5-984348dfb58c" />
-  
-  Halaman form (tabel diisi dengan nama masing masing)
-  
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54467247-eb08-4f8f-8082-02d90ea43db0" />
